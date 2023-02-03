@@ -1,0 +1,4 @@
+# Flask CLI Options
+FLASK_APP='server'
+FLASK_DEBUG=True
+FLASK_RUN_PORT=5000
